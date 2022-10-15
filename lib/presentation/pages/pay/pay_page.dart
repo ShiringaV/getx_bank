@@ -36,7 +36,7 @@ class _PayPageState extends State<PayPage> {
       appBar: Container(
         padding: EdgeInsets.only(
           top: MediaQuery.of(context).padding.top,
-          bottom: 16.0,
+          bottom: 26.0,
         ),
         color: Theme.of(context).primaryColor,
         alignment: Alignment.center,
