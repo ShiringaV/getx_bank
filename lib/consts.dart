@@ -6,6 +6,8 @@ static const primaryLight = Color(0xfff9e6f3);
 static const white = Color(0xfff7f7f7);
 static const darkPrimary = Color(0xffE4E6EB);
 static const darkSecond = Color(0xffB0B3B8);
+static const green = Color(0xff00ff22);
+// command + k
 }
 
 class AppIcons {
